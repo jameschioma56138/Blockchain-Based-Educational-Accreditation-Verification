@@ -5,3 +5,5 @@ R
 "contracts/evaluation-tracking.clar,f/f/ff3000ab0eba31b4ad3ee56922f3a27a4888559a
 W
 'contracts/institution-verification.clar,d/d/dd6f29d581e4fc80d30e9eb12d64363ad190bf89
+S
+#contracts/program-registration.clar,d/1/d18bbab6d72f7f4ab23c253e57332d43843c522c
